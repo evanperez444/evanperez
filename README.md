@@ -1,5 +1,6 @@
 # Evan Perez
 
+Hello! My name is Evan, and I'm a senior in computer science at The City College of New York with a minor in mathematics. I have a focus on data science and machine learning with industry experience in creating tools for data preprocessing, transforming, and structuring using Python. 
 
 # Technologies 
 
